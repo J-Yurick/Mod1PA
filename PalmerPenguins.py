@@ -11,8 +11,10 @@ SP_ADELIE = "Adelie"
 TOTAL_SPECIES = 3
 
 # output the species names with introductory text
+
 print("Introducing the Palmer Penguins:")
-print(SP_CHINSTRAP)
-print(SP_GENTOO)
-print(SP_ADELIE)
-print("Total species:", TOTAL_SPECIES)
+print()
+print("\t" + SP_CHINSTRAP)
+print("\t" + SP_GENTOO)
+print("and last but not least...")
+print("\t" + SP_ADELIE)
