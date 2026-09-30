@@ -14,7 +14,7 @@ TOTAL_SPECIES = 3
 
 print("Introducing the Palmer Penguins:")
 print()
-print("\t" + SP_CHINSTRAP)
-print("\t" + SP_GENTOO)
+print("\t" + SP_CHINSTRAP + "!")
+print("\t" + SP_GENTOO + "!")
 print("and last but not least...")
-print("\t" + SP_ADELIE)
+print("\t" + SP_ADELIE + "!")
